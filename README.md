@@ -9,7 +9,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ekoongt123&theme=onedark&column=3&margin-w=15&margin-h=15)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate BackEnd Dev </h3>
 
 - 📫 How to reach me **bowo1120@gmail.com**
 
